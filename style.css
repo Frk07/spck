@@ -1,0 +1,23 @@
+body {
+  background-color: slategray;
+}
+
+img{
+    border-radius:300px;
+    margin-right: 10px;
+}
+
+.username{
+  font-size: 20px;
+  color: darkblue;
+}
+
+.summary{
+  font-size: 15px;
+}
+
+#para{
+  font-size: 16px;
+ color: black;
+font-style: italic;
+}
