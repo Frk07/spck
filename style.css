@@ -1,19 +1,36 @@
 body {
-  background-color: slategray;
+  background-color: white;
 }
 
 img{
+  float: ;
     border-radius:300px;
     margin-right: 10px;
+    top: 0;
+    
 }
 
 .username{
+  text-align: left;
   font-size: 20px;
-  color: darkblue;
+  background-color: black;
+  color: whitesmoke;
+  font-style: italic;
+}
+
+.naam{
+  text-align: right;
+  color: black;
+  margin: 0;
+  background-color: black;
+  color: whitesmoke;
 }
 
 .summary{
+  text-align: center;
   font-size: 15px;
+  background-color: black;
+  color: whitesmoke;
 }
 
 #para{
@@ -21,3 +38,5 @@ img{
  color: black;
 font-style: italic;
 }
+
+
