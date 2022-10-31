@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: lightgray;
 }
 
 img{
@@ -58,4 +58,13 @@ font-style: italic;
   color: darkred;
   text-decoration: underline;
   text-align: left;
+}
+
+#lastexp{
+  color: black
+}
+#brfexp{
+  text-align: left;
+  text-decoration:underline ;
+color: darkred;
 }
